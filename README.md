@@ -40,9 +40,6 @@ This repository contains a comprehensive paper discussing the cryptanalysis of T
 ## Contributing
 Contributions, suggestions, or improvements to the paper or any associated research are welcome. Please open an issue or submit a pull request with your proposed changes or additional insights.
 
-## License
-Feel free to modify or reference this work for academic and research purposes. Refer to the paper’s references and this repository’s [LICENSE](LICENSE) file (if provided) for more information regarding usage and distribution.
-
 ---
 
 **Contact**  
